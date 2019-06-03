@@ -26,6 +26,15 @@ h1 {
     font-family: 'Indie Flower', cursive;
     font-weight: lighter;
     font-size: 80px;
+    color:#030624;
+}
+
+#rules {
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    font-stretch: expanded;
+    color: #680970;
 }
 
 button {
